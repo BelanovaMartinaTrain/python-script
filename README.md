@@ -3,7 +3,7 @@
 These scripts were created for my team to help with great amount of data we needed to comb through during the process of "cleaning" public IP addresses.
 It needed to workaround the lack of automation in within teams so the output data are prepared in the most suitable format.
 
-Because it was created for my work it utilises a lot of slovak language words :)
+-   Because it was created for my work it utilises a lot of slovak language words
 
 ## How it works
 
